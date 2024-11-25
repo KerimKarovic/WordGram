@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=TestMarkovModels
+comment1.params=filePath\ searchText
+comment1.target=java.lang.String\ getTextFromFile(java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=void\ testMarkovZero()
+comment3.params=
+comment3.target=void\ testMarkovOne()
+comment4.params=
+comment4.target=void\ testMarkovFour()
+comment5.params=
+comment5.target=void\ testMarkovModel()
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+numComments=7
